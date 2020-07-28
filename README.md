@@ -6,8 +6,11 @@ When the app is run, the following Menu display pops up and the user will be exp
                            
            Menu:Choose any of the following Options a - d
 a. Current Global Count for Confirmed Cases, Death and Recovered 
+
 b. Country/Region Count for Confirmed Cases, Death and Recovered
+
 c. History of Counts for Confirmed Cases, Death and Recovered for Country/Region
+
 d. Exit
 
 If the user enters a, the current global count of cases, death and recovered is displayed
