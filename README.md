@@ -15,8 +15,11 @@ c. History of Counts for Confirmed Cases, Death and Recovered for Country/Region
 d. Exit
 
 If the user enters a, the current global count of cases, death and recovered is displayed
+
 if the user enters b, it will prompt the user to enter a region or country and it then displays the covid 19 situation of that country
+
 if the user enters c, it prompts the user to enter the country/region and it then displays the history of covid 19 for that country including the date each was reported
+
 if the user enters d, the program is closed
 
 It validates the user input so that If the user enters anything not in the menu, it prompts the user to enter the right input except they want to exit the program
